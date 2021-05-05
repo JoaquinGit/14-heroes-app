@@ -19,8 +19,7 @@ Aplicación que incluye:
 Este proyecto fue inicializado con [Create React App](https://github.com/facebook/create-react-app).
 
 - HTML5
-- CSS
-- Bootstrap
+- Bootstrap 4.5
 - React.js
 
 ## Instalación 🔧
